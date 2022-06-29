@@ -42,5 +42,13 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Screenshots
+<img width="891" alt="Screen Shot 2022-06-28 at 10 19 05 PM" src="https://user-images.githubusercontent.com/32420245/176344007-cab56a06-3fd6-460c-89c2-55717e86310a.png">
+<img width="882" alt="Screen Shot 2022-06-28 at 10 19 11 PM" src="https://user-images.githubusercontent.com/32420245/176344017-9938f1ee-c8d8-4ed9-9417-2f756fd3694b.png">
+<img width="891" alt="Screen Shot 2022-06-28 at 10 19 16 PM" src="https://user-images.githubusercontent.com/32420245/176344040-c67fdb14-714b-445a-aa1b-9c27f41163e4.png">
+<img width="1440" alt="Screen Shot 2022-06-28 at 10 19 19 PM" src="https://user-images.githubusercontent.com/32420245/176344046-c8d0c537-cb82-4ab2-885e-d35a9be91e9c.png">
+<img width="923" alt="Screen Shot 2022-06-28 at 10 19 25 PM" src="https://user-images.githubusercontent.com/32420245/176344057-0a5d7acc-69f5-4904-8fc1-fc912289da72.png">
+<img width="957" alt="Screen Shot 2022-06-28 at 10 19 31 PM" src="https://user-images.githubusercontent.com/32420245/176344073-5a8a340e-7a46-4bfe-b6d4-f5bf41274ba3.png">
+<img width="903" alt="Screen Shot 2022-06-28 at 10 19 38 PM" src="https://user-images.githubusercontent.com/32420245/176344082-cf832a81-fedb-45dc-8b28-fc0ea39cc57f.png">
 
 ## Link to Deployed Application
+https://aalissy.github.io/Password-Generator/
